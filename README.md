@@ -1,5 +1,5 @@
 # कालिय (KALIYA)
-<img src="IMAGES/COBRA.jpg" alt='KALIYA' width='700' />
+<img src="IMAGES/COBRA.jpg" alt='KALIYA' width='300' />
 
 
 tesa-klebeband's [RTL8720dn-Deauther](https://github.com/tesa-klebeband/RTL8720dn-Deauther)
